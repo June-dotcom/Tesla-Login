@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5252</color>
+    <color name="colorPrimaryVariant">#F50057</color>
+    <color name="colorOnPrimary">#FF3D00</color>
+    <color name="colorSecondary">#FF5252</color>
+    <color name="colorSecondaryVariant">#FF5252</color>
+    <color name="colorOnSecondary">#FF5252</color>
+
+    <color name="black">#272727</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tesla Login</string>
+    <string name="reg_desc_txt">Registration form</string>
+
+    <string name="login_stmt_txt">Have an account?</string>
+    <string name="reg_stmt_txt">Don\'t have an account yet?</string>
+</resources>
